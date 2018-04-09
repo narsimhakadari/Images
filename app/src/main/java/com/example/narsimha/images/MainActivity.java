@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity
     private ArrayList<String> stringArrayList;
     private ListViewAdapter adapter;
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
